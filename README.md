@@ -7,7 +7,7 @@
 
 I'am a CS student, currently working at the general students' committee of paderborn univeristy.
 
-**What've I been up to this week?** 
+**What've I been up to this month?** 
 
 <!--START_SECTION:waka-->
 ```text
