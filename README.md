@@ -10,4 +10,9 @@ I'am a CS student, currently working at the general students' committee of pader
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
+```text
+From: 23 January, 2022 - To: 22 February, 2022
+
+
+```
 <!--END_SECTION:waka-->
