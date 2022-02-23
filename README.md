@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-negi-592ba3223/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.ravi.negi@googlemail.com)
 
-<!--
-**zewasofti/zewasofti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey, I'm Daniel**
 
-Here are some ideas to get you started:
+**Thank you for being interested in my profile!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'am a CS student, currently working at the general students' committee of paderborn univeristy.
+
+**What've I been up to this week?** 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
