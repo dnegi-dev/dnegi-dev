@@ -10,9 +10,11 @@ I'am a CS student, currently working at the general students' committee of pader
 **What've I been up to this month?** 
 
 <!--START_SECTION:waka-->
-```text
-From: 26 January, 2022 - To: 25 February, 2022
 
-Other        ███████████████████████████████████████▓░   96.38 % 
+```text
+From: 27 January 2022 - To: 26 February 2022
+
+Other                        ████████████████████████░   96.38 %
 ```
+
 <!--END_SECTION:waka-->
