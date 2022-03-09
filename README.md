@@ -12,10 +12,11 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2022 - To: 07 March 2022
+From: 06 February 2022 - To: 08 March 2022
 
-JavaScript                   ██████████████████████▒░░   88.98 %
-Other                        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+JavaScript                   ██████████████████▓░░░░░░   74.37 %
+Python                       ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
