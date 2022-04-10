@@ -12,12 +12,12 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 08 April 2022
+From: 10 March 2022 - To: 09 April 2022
 
-Python                     █████████████████▓░░░░░░░   70.20 %
-Bash                       ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Docker                     ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Bash                       ████████████▒░░░░░░░░░░░░   49.94 %
+Docker                     ███████████▒░░░░░░░░░░░░░   45.58 %
+Python                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
