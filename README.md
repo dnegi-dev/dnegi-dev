@@ -12,7 +12,7 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 26 June 2022
+From: 28 May 2022 - To: 27 June 2022
 
 Dart                   ███████████████████████▒░   92.74 %
 YAML                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
