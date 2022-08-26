@@ -12,12 +12,13 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 July 2022 - To: 23 August 2022
+From: 25 July 2022 - To: 24 August 2022
 
-YAML                         ██████████▓░░░░░░░░░░░░░░   42.82 %
-Bash                         █████████▓░░░░░░░░░░░░░░░   38.12 %
-TOML                         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Git Config                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Bash                         ████████████░░░░░░░░░░░░░   48.62 %
+YAML                         █████████░░░░░░░░░░░░░░░░   35.81 %
+TOML                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Git Config                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
