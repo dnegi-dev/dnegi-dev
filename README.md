@@ -12,7 +12,7 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 17 December 2022
+From: 18 November 2022 - To: 18 December 2022
 
 Dart                         ████████████▒░░░░░░░░░░░░   49.54 %
 Rust                         ███████████▓░░░░░░░░░░░░░   47.29 %
