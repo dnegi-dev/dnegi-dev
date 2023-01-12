@@ -12,10 +12,11 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 09 January 2023
+From: 11 December 2022 - To: 10 January 2023
 
-Rust                         █████████████████▒░░░░░░░   68.92 %
-Other                        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Rust                         █████████████████░░░░░░░░   68.47 %
+Bash                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Other                        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
 ```
 
 <!--END_SECTION:waka-->
