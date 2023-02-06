@@ -12,12 +12,11 @@ I'am a CS student, currently working at the general students' committee of pader
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 03 February 2023
+From: 05 January 2023 - To: 04 February 2023
 
-Rust                         ███████████████████░░░░░░   75.54 %
-Bash                         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-TOML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Rust                         ██████████████████░░░░░░░   72.07 %
+Bash                         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
