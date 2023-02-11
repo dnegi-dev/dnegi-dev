@@ -65,11 +65,10 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 08 February 2023
+From: 10 January 2023 - To: 09 February 2023
 
-Rust                         ███████████████████░░░░░░   75.98 %
-Bash                         █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Rust                   █████████████████████████   99.62 %
+TOML                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
