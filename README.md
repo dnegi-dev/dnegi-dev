@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 24 February 2023
+From: 26 January 2023 - To: 25 February 2023
 
 Bash                       ████████████████░░░░░░░░░   63.74 %
 Rust                       ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
