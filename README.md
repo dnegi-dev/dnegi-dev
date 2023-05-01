@@ -65,14 +65,13 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 28 April 2023
+From: 30 March 2023 - To: 29 April 2023
 
-Python                       ██████████████████░░░░░░░   72.27 %
-Markdown                     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Bash                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-TOML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python                       ███████████████████▓░░░░░   79.32 %
+Markdown                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Bash                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+TOML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
