@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2023 - To: 29 April 2023
+From: 31 March 2023 - To: 30 April 2023
 
 Python                       ███████████████████▓░░░░░   79.32 %
 Markdown                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
