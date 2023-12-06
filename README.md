@@ -65,11 +65,11 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 03 December 2023
+From: 05 November 2023 - To: 05 December 2023
 
-Markdown                   ████████████████████▒░░░░   81.56 %
-Python                     ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-TOML                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Markdown                   ████████████░░░░░░░░░░░░░   47.49 %
+Python                     ████████▒░░░░░░░░░░░░░░░░   32.87 %
+TOML                       █████░░░░░░░░░░░░░░░░░░░░   19.65 %
 ```
 
 <!--END_SECTION:waka-->
