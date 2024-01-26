@@ -65,11 +65,12 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 23 January 2024
+From: 25 December 2023 - To: 24 January 2024
 
-Bash                         ████████████████████████░   95.92 %
-PowerShell                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash                         ████████████████████████░   95.53 %
+PowerShell                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
