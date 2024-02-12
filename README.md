@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 09 February 2024
+From: 11 January 2024 - To: 10 February 2024
 
 Bash                         ██████████████████▒░░░░░░   73.98 %
 Other                        ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
