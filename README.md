@@ -65,12 +65,13 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 08 April 2024
+From: 11 March 2024 - To: 10 April 2024
 
-YAML                   ██████████████████████▒░░   89.14 %
-Bash                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-XML                    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-JSON                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+YAML                       ████████████████████░░░░░   80.10 %
+Bash                       ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+XML                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
