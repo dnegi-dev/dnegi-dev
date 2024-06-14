@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 11 June 2024
+From: 13 May 2024 - To: 12 June 2024
 
 Dart                       ███████▒░░░░░░░░░░░░░░░░░   29.18 %
 YAML                       ███████░░░░░░░░░░░░░░░░░░   28.53 %
