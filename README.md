@@ -65,13 +65,11 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 14 July 2024
+From: 16 June 2024 - To: 16 July 2024
 
-Rust                       ████████████████▒░░░░░░░░   65.09 %
-Other                      ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-TOML                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Dart                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Rust                    ████████████████▒░░░░░░░░   65.15 %
+Other                   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+TOML                    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
