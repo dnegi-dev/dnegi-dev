@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2024 - To: 05 August 2024
+From: 07 July 2024 - To: 06 August 2024
 
 Python                           ███████████████▓░░░░░░░░░   62.08 %
 Rust                             █████████░░░░░░░░░░░░░░░░   36.01 %
