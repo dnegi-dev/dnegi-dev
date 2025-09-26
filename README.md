@@ -65,7 +65,7 @@ Here's a quick look at my coding activity this month, powered by [Wakatime](http
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 23 September 2025
+From: 25 August 2025 - To: 24 September 2025
 
 No activity tracked
 ```
