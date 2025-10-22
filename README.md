@@ -1,4 +1,6 @@
-# CKA | Because someone has to run Kubernetes without the cloud | Propagating errors at scale since v1.0
+- ***CKA*** 
+- ***Because someone has to run Kubernetes without the cloud***
+- ***Propagating errors at scale since v1.0***
 <!--START_SECTION:waka-->
 
 ```txt
