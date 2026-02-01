@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 29 January 2026
+From: 01 January 2026 - To: 31 January 2026
 
 No activity tracked
 ```
